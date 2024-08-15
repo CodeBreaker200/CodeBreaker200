@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeBreaker200](https://github.com/CodeBreaker200)
 
-- 💬 Ask me about **C#, ASP.NET MVC, MSSQL, HTML, CSS, BOOTSTRAP, JAVASCRIPT**
+- 💬 Ask me about **C#, ASP.NET, MSSQL, HTML, CSS, JavaScript,JQUERY, Web API .NET Core, Angular, Node.js, and MongoDB**
 
 - 📫 How to reach me **rohitkohakade200@gmail.com**
 
